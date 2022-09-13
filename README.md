@@ -25,3 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsshuvo&show_icons=true&locale=en" alt="itsshuvo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshuvo&" alt="itsshuvo" /></p>
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=itsshuvo&count_private=true&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsshuvo&show_icons=true&theme=radical)
+![
