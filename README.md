@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=6c09b95267de4d19d4a79fa8e0947638c8cc3a1851b5676e&rid=giphy.gif&ct=s">
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=6c09b95267de4d19d4a79fa8e0947638c8cc3a1851b5676e&rid=giphy.gif&ct=s">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsshuvo&label=Profile%20views&color=0e75b6&style=flat" alt="itsshuvo" /> </p>
