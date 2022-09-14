@@ -24,4 +24,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=itsshuvo&count_private=true&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshuvo&" alt="itsshuvo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsshuvo&&theme=tokyonight" alt="itsshuvo" /></p>
