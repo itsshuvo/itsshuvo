@@ -1,5 +1,5 @@
 <h1 align="center">Hi  I'm  Shuvo</h1>
-<h3 align="center">A PASSIONATE DEVELOPER FROM BANGLADESH Bangladesh</h3>
+<h3 align="center">A PASSIONATE DEVELOPER FROM BANGLADESH</h3>
 <img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif?cid=790b7611d742bc7fb587cc0c21abb6e693cf3103ac929d03&rid=giphy.gif&ct=s">
 
 
